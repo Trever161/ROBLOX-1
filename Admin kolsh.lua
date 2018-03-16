@@ -1,8 +1,8 @@
-local owners = {"NikepRro2004"} -- Are able to set admins who can ban/etc... using :pa name
+local owners = {"NikepRro2004","GIMHulk77Killer"} -- Are able to set admins who can ban/etc... using :pa name
 local admins = {"NikePro2004"} -- Sets admins who can use ban/kick/admin or shutdown
 local tempadmins = {} -- Sets admins who can't use ban/kick/admin or shutdown
-local banland = {"isik"} -- Permanently Bans people
-local prefix = ":" -- If you wanna change how your commands start ':'kill noob
+local banland = {"djdogg123"} -- Permanently Bans people
+local prefix = ";" -- If you wanna change how your commands start ':'kill noob
 local AutoUpdate = true -- Set to false if you don't want it to automatically update
 local FunCommands = true -- Set to false if you only want the basic commands (For Strict Places)
 ---------------------
